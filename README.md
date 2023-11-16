@@ -3,3 +3,4 @@ This is a cat project that shows my progress in the unit internet technologies a
 So far i have attached two codes made in the app visual studio code which showcase my project,porfolio.html and FG entreprise.html.
 The first project code FG Entreprise.html contains codes which showcase the bronchure about my company.
 The second project code porfolio.html contains codes about my porfolio which will be used to enable me to apply and get jobs from other software development companies.
+Lastly there are two files which were used to improve the appearance of the two projects,style.css which was used to improve the appearance of the project porfolio.html and stylle.css which was used to improve the appearance of the project FG Entreprise.html
